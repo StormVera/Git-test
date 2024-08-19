@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ivy-module version="2.0">
+  <info organisation="org.jfrog.example.cpp" module="TextWriter" revision="1.0-SNAPSHOT" status="integration" publication="20240812211619"/>
+  <configurations/>
+  <publications>
+    <artifact name="TextWriter" type="tar" ext="tar"/>
+  </publications>
+  <dependencies/>
+</ivy-module>

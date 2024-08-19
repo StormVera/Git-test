@@ -1,0 +1,6 @@
+-shared
+-Wl,-soname,libTextWriter.so
+-o
+/home/zhanghuimin/git_code/project-examples/cpp-example/TextWriter/build/lib/main/debug/shared/libTextWriter.so
+/home/zhanghuimin/git_code/project-examples/cpp-example/TextWriter/build/obj/main/debug/shared/cpasexnc6fw54ypmc3243b60o/TextWriter.o
+-m64

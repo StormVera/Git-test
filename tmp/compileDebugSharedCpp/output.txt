@@ -1,0 +1,4 @@
+See file:///home/zhanghuimin/git_code/project-examples/cpp-example/TextWriter/build/tmp/compileDebugSharedCpp/output.txt for all output for compileDebugSharedCpp.
+compiling TextWriter.cpp successful.
+
+Finished compileDebugSharedCpp, see full log file:///home/zhanghuimin/git_code/project-examples/cpp-example/TextWriter/build/tmp/compileDebugSharedCpp/output.txt.

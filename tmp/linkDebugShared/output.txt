@@ -1,0 +1,4 @@
+See file:///home/zhanghuimin/git_code/project-examples/cpp-example/TextWriter/build/tmp/linkDebugShared/output.txt for all output for linkDebugShared.
+linking libTextWriter.so successful.
+
+Finished linkDebugShared, see full log file:///home/zhanghuimin/git_code/project-examples/cpp-example/TextWriter/build/tmp/linkDebugShared/output.txt.

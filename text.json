@@ -1,0 +1,14 @@
+{
+  "files": [
+    {
+      "pattern": "lib/main/debug/shared/*.so",
+      "target": "TEST-Python/test/",
+      "targetProps": "version=1.0.8;status=stable;environment=dev;license=MIT;sensitivity=confidential;description=add tools for hand-genture",
+      "recursive": "true",
+      "flat": "false",
+      "regexp": "false",
+      "ant": "true",
+      "exclusions": ["*.tmp","*.bak"]
+    }
+  ]
+}
